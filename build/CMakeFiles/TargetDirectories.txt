@@ -1,0 +1,4 @@
+/d/chen_education/project/Aproject/WebServer/build/CMakeFiles/server.dir
+/d/chen_education/project/Aproject/WebServer/build/CMakeFiles/test.dir
+/d/chen_education/project/Aproject/WebServer/build/CMakeFiles/edit_cache.dir
+/d/chen_education/project/Aproject/WebServer/build/CMakeFiles/rebuild_cache.dir

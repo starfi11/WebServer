@@ -1,0 +1,7 @@
+{
+	"InstallScripts" : 
+	[
+		"/d/chen_education/project/Aproject/WebServer/build/cmake_install.cmake"
+	],
+	"Parallel" : false
+}
