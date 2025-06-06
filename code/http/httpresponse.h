@@ -12,8 +12,8 @@
 #include <sys/stat.h>    // stat
 #include <sys/mman.h>    // mmap, munmap
 
-#include "../buffer/buffer.h"
-#include "../log/log.h"
+#include "buffer/buffer.h"
+#include "log/log.h"
 
 class HttpResponse {
 public:

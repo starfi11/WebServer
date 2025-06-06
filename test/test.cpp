@@ -3,8 +3,8 @@
  * @Date         : 2020-06-20
  * @copyleft Apache 2.0
  */ 
-#include "../code/log/log.h"
-#include "../code/pool/threadpool.h"
+#include "log/log.h"
+#include "pool/threadpool.h"
 #include <features.h>
 
 #if __GLIBC__ == 2 && __GLIBC_MINOR__ < 30

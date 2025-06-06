@@ -4,7 +4,7 @@
  * @copyleft Apache 2.0
  */ 
 
-#include "sqlconnpool.h"
+#include "pool/sqlconnpool.h"
 using namespace std;
 
 SqlConnPool::SqlConnPool() {
